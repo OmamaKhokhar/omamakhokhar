@@ -35,5 +35,5 @@
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=omamakhokhar&show_icons=true&locale=en&layout=compact" alt="omamakhokhar" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=omamakhokhar&show_icons=true&locale=en" alt="omamakhokhar" /></p>
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omamakhokhar&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=480&background=151920&border=080B0F&stroke=080B0F&ring=0097B2&fire=006F83&currStreakNum=006F83&sideNums=006F83&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF" alt="GitHub Streak" /></a></p>
+<img src="https://github-readme-stats.vercel.app/api?username=omamakhokhar&show_icons=true&locale=en&card_width=480&rank_icon=github&bg_color=151920&ring_color=0097B2&border_color=0097B2&icon_color=006F83&title_color=0097B2&text_color=FFFFFF" alt="omamakhokhar" />
+<img src="https://streak-stats.demolab.com?user=omamakhokhar&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=480&background=151920&border=080B0F&stroke=080B0F&ring=0097B2&fire=006F83&currStreakNum=006F83&sideNums=006F83&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF" alt="GitHub Streak" />
