@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Omama Khokhar</h1>
-<h3 align="center">An Aspiring Web and Mobile App Developer</h3>
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Changa&weight=500&size=38&duration=5025&pause=1010&color=0097B2&background=15192000&center=true&vCenter=true&repeat=false&random=false&width=550&lines=Hello%2C+There!;I'm+Omama+Khokhar" alt="Typing SVG" /></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omamakhokhar&label=Profile%20views&color=0e75b6&style=flat" alt="omamakhokhar" /> </p>
+---
+
+<p align="center"><img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" width="700px" ></p>
+<p align="left"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmamaKhokhar"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmamaKhokhar&label=PROFILE%20VIEWS&labelColor=%23151920&countColor=%230097b2&labelStyle=upper" /></a></p>
 
 - 🎯 I’m currently learning **Front-End Development**
 
@@ -11,11 +14,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/omamakhokhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="omamakhokhar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omamakhokhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omamakhokhar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23182618/omama-khokhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23182618/omama-khokhar" height="30" width="40" /></a>
-<a href="https://medium.com/@omamakhokhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omamakhokhar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omamakhokhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omamakhokhar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omamakhokhar" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="omamakhokhar" width="120px"/></a>
+  
+<a href="https://dev.to/omamakhokhar" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" width="120px" /></a>
+
+<a href="https://stackoverflow.com/users/23182618/omama-khokhar" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="120px"  /></a>
+
+<a href="https://medium.com/@omamakhokhar" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="120px" /></a>
+
+<a href="https://www.leetcode.com/omamakhokhar" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="120px" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +30,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=omamakhokhar&show_icons=true&locale=en&layout=compact" alt="omamakhokhar" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=omamakhokhar&show_icons=true&locale=en" alt="omamakhokhar" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=omamakhokhar&" alt="omamakhokhar" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omamakhokhar&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=480&background=151920&border=080B0F&stroke=080B0F&ring=0097B2&fire=006F83&currStreakNum=006F83&sideNums=006F83&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF" alt="GitHub Streak" /></a></p>
