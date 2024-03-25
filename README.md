@@ -15,18 +15,18 @@
 
 <h3 align="left" font-size="34px">Contact with me:</h3>
 <p align="left">
-<a href="mailto:workwithomama@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="omamakhokhar" width="135px" height="35px"/></a> &nbsp;&nbsp;
-<a href="mailto:workwithomama@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="omamakhokhar" width="135px" height="35px"/></a> &nbsp;&nbsp;
+<a href="mailto:workwithomama@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="omamakhokhar" width="120px" height="30px"/></a> &nbsp;&nbsp;
+<a href="mailto:workwithomama@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="omamakhokhar" width="120px" height="30px"/></a> &nbsp;&nbsp;
 </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omamakhokhar" target="_blank" height="45px"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="omamakhokhar" width="135px" height="35px"/></a>&nbsp;&nbsp;
-<a href="https://dev.to/omamakhokhar" target="_blank" height="45px"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" width="135px" height="35px" /></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/23182618/omama-khokhar" target="_blank" height="45px"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="135px" height="35px" /></a>&nbsp;&nbsp;
-<a href="https://medium.com/@omamakhokhar" target="_blank" height="45px" ><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="135px" height="35px" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/omamakhokhar" target="_blank" height="45px"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="135px" height="35px"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/omamakhokhar" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="omamakhokhar" width="120px" height="30px"/></a>&nbsp;&nbsp;
+<a href="https://dev.to/omamakhokhar" target="_blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" width="120px" height="30px" /></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/23182618/omama-khokhar" target="_blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="120px" height="30px" /></a>&nbsp;&nbsp;
+<a href="https://medium.com/@omamakhokhar" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="120px" height="30px" /></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/omamakhokhar" target="_blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="120px" height="30px"/></a>&nbsp;&nbsp;
 </p>
 
 #
