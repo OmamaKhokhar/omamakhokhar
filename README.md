@@ -8,10 +8,8 @@
 
 <p align="left"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmamaKhokhar"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmamaKhokhar&label=PROFILE%20VIEWS&labelColor=%23151920&countColor=%230097b2&labelStyle=upper" /></a></p>
 
-- 🎯 I’m currently learning **Front-End Development**
-
-- 💬 Ask me about **Web Development,HTML and CSS**
-
+<h2>An Aspiring Web and Mobile App Developer</h2>
+<p>Hey there, I am Omama Khokhar, an aspiring Web and Mobile App developer proficient in HTML5 and CSS with a foundational understanding of web development. I am currently refining my skills in HTML5, CSS and its framework. Aspire to learn new technology of both frontend and backend development. While I'm in the early stages of my journey, I am eager to apply my skills and Learn more in the dynamic world of web development. I'm passionate about creating seamless and creative websites. With a keen interest in the dynamic world of technology, I'm always eager to learn about Artificial Intelligence, Data Science and Web 3.0.</p>
 
 #
 
