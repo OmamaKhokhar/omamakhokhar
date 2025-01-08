@@ -39,4 +39,3 @@
 
 <h3 align="left">Profile Stats:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=omamakhokhar&show_icons=true&locale=en&card_width=480&rank_icon=github&bg_color=151920&ring_color=0097B2&border_color=0097B2&icon_color=006F83&title_color=0097B2&text_color=FFFFFF" alt="omamakhokhar" />
-<img src="https://streak-stats.demolab.com?user=omamakhokhar&hide_border=false&border=0097B2&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=480&background=151920&&ring=0097B2&fire=006F83&currStreakNum=006F83&sideNums=006F83&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&stroke=FFFFFF" alt="GitHub Streak" />
