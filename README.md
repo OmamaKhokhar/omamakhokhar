@@ -9,7 +9,7 @@
 <p align="left"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FOmamaKhokhar"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FOmamaKhokhar&label=PROFILE%20VIEWS&labelColor=%23151920&countColor=%230097b2&labelStyle=upper" /></a></p>
 
 <h2>An Aspiring Web and Mobile App Developer</h2>
-<p>Hey there, I am Omama Khokhar, an aspiring Web and Mobile App developer proficient in HTML5 and CSS with a foundational understanding of web development. I am currently refining my skills in HTML5, CSS and its framework. I aspire to learn new technology for both frontend and backend development. While I'm in the early stages of my journey, I am eager to apply my skills and Learn more in the dynamic world of web development. I'm passionate about creating seamless and creative websites. With a keen interest in the dynamic world of technology, I'm always eager to learn about Artificial Intelligence, Data Science and Web 3.0.</p>
+<p>Hey there, I am Omama Khokhar, an aspiring Web and Mobile App developer proficient in HTML5, CSS3 and JavaScript with a foundational understanding of web development. I am currently refining my skills in javascript ES6 and its framework. I aspire to learn new technology for both frontend and backend development. While I'm in the early stages of my journey, I am eager to apply my skills and Learn more in the dynamic world of web development. I'm passionate about creating seamless and creative websites. With a keen interest in the dynamic world of technology, I'm always eager to learn about Artificial Intelligence, Data Science and Web 3.0.</p>
 
 #
 
@@ -33,7 +33,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,ai&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,firebase,github,ai&theme=dark" />
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=omamakhokhar&show_icons=true&locale=en&layout=compact&card_width=480&bg_color=151920&border_color=0097B2&title_color=0097B2&text_color=FFFFFF" alt="omamakhokhar" /></p>
 
